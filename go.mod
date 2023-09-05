@@ -5,7 +5,6 @@ go 1.18
 require (
 	github.com/gin-gonic/gin v1.9.1
 	github.com/ulule/limiter/v3 v3.11.2
-	golang.org/x/time v0.3.0
 )
 
 require (
