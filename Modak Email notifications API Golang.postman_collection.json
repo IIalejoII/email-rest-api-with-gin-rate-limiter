@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "6e3c187c-3e80-4d80-ba67-e46d80a6af67",
+		"name": "Modak Email notifications API Golang",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4615984"
+	},
+	"item": [
+		{
+			"name": "Send Status Email Notification",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Send Marketing Email Notification Copy",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Send Status Email Notification Copy 2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
